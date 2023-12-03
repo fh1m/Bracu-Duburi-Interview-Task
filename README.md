@@ -4,6 +4,7 @@
 
 
 ### followed all the instructions that were given to me for the task.
+<br>
 
 * Used custom dataset from [kaggle](https://www.kaggle.com/datasets/chethuhn/water-bottle-dataset/)
 * Labeled and cleaned the dataset using [LabelImg](https://github.com/HumanSignal/labelImg)
